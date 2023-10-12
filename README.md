@@ -1,4 +1,4 @@
 Pagina web destinada a la cotizacion de diferentes monedas a criptomonedas
 
-Para usar el proyecto use el siguiente comando:
+Para instalar las dependencias necesarias y poder ejecutar el proyecto ejecute el siguiente comando:
 yarn install
